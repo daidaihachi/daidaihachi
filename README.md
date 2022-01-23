@@ -1,4 +1,7 @@
 ### Hi there 👋
+## companies
+・[microsoft]{https://github.com/Microsoft)
+
 
 <!--
 **daidaihachi/daidaihachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
