@@ -6,6 +6,8 @@ Global:
 ・[google](https://github.com/google)
 ・[linkedin](https://github.com/linkedin)
 ・[amazonwebservice](https://github.com/aws)
+  
+Japan:
 
 
 <!--
