@@ -1,5 +1,5 @@
 ### Hi there 👋
-# companies
+#### companies
 ・[github](https://github.com/github)
 ・[microsoft](https://github.com/Microsoft)
 ・[google](https://github.com/google)
