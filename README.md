@@ -7,7 +7,11 @@ Global:
 ・[linkedin](https://github.com/linkedin)
 ・[amazonwebservice](https://github.com/aws)
   
-Japan:
+Asia:  
+・[CyberAgent](https://github.com/CyberAgent)
+・[Cookpad](https://github.com/cookpad)
+・[mixi](https://github.com/mixi-inc)
+・[NAVER](https://github.com/naver)
 
 
 <!--
