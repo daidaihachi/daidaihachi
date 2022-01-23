@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## companies
-・[microsoft]{https://github.com/Microsoft)
+・[microsoft](https://github.com/Microsoft)
 
 
 <!--
