@@ -1,8 +1,9 @@
 ### Hi there 👋
-### companies  
-Social, Governmental Site:  
+### Social, Governmental Site:   
+
 ・[Tokyo-Metropolitan-gov](https://github.com/tokyo-metropolitan-gov)
 ・
+### companies  
 
 Global:  
 ・[github](https://github.com/github)
