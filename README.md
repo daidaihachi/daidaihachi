@@ -3,7 +3,7 @@
 
 ・[Tokyo-Metropolitan-gov](https://github.com/tokyo-metropolitan-gov)
 ・
-### companies  
+### Companies  
 
 Global:  
 ・[github](https://github.com/github)
