@@ -1,7 +1,8 @@
 ### Hi there 👋
 ### Social, Governmental Site:  
 
-・[Tokyo-Metropolitan-gov](https://github.com/tokyo-metropolitan-gov):simple_smile:
+・[Tokyo-Metropolitan-gov](https://github.com/tokyo-metropolitan-gov):![image](https://user-images.githubusercontent.com/39868383/151910941-7d4d9b3a-c278-44cd-af46-a8bc98785b77.png)
+
 ・
 ### Companies:  
 
