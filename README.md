@@ -3,7 +3,6 @@
 
 ・[Tokyo-Metropolitan-gov](https://github.com/tokyo-metropolitan-gov):grinning:
 
-・
 ### Companies:  
 
 Global:  
