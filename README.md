@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Social, Governmental Site:  
 
-・[Tokyo-Metropolitan-gov](https://github.com/tokyo-metropolitan-gov):grinning:
+・[Tokyo-Metropolitan-gov](https://github.com/tokyo-metropolitan-gov):grinning:  
 ・[DATA GO JAPAN](https://www.data.go.jp/?lang=ja)  
 
 
