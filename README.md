@@ -2,8 +2,8 @@
 ### Social, Governmental Site:  
 
 ・[Tokyo-Metropolitan-gov](https://github.com/tokyo-metropolitan-gov):grinning:  
-・[DATA GO JAPAN](https://www.data.go.jp/?lang=ja) 
-・[CODE FOR JAPAN](https://www.code4japan.org/)
+・[DATA GO JAPAN](https://www.data.go.jp/?lang=ja)  
+・[CODE FOR JAPAN](https://www.code4japan.org/) 
 
 
 ### Companies:  
